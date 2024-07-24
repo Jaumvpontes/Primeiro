@@ -6,7 +6,7 @@
     <title>Pergunta</title>
     <style>
         body {
-            background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_EMpYr1i4Q5Dyttw5vDQkP8X3Xge9JBn7sJSPmvfDVT-8XiodZ9hWdM&s=10) no-repeat center center fixed;
+            background: url('https://www.example.com/caminho/para/imagem-de-nuvens.jpg') no-repeat center center fixed;
             background-size: cover;
             display: flex;
             justify-content: center;
